@@ -9,6 +9,18 @@
 - **telegram** - <a href="https://t.me/burenkov">@burenkov</a>
 - **city** — Санкт-Петербург
 
+## Привлекающие технологии
+JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS
+
+## Образование
+
+
+## Портфолио
+
+## О себе
+Люблю изучать новые технологии и оптимизировать процессы.
+Так же увлекаюсь велоспортом и общим функциональным развитием организма.
+
 <!--
 **EveryBarry/EveryBarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

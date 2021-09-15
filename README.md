@@ -2,7 +2,12 @@
 
 <img align="right" width="250" heigth="auto" alt="Буренков Игорь и вид на Джугутурлючат" src="IMG_20210725_113104min.jpg">
 
-### Hi there 👋
+## Контактная информация
+
+- **tel** — <a href="tel:+79811574035">+7 981 157 40 35</a>
+- **mail** — <a href="mailto:79811574035@ya.ru">79811574035@ya.ru</a>
+- **telegram** - <a href="https://t.me/burenkov">@burenkov</a>
+- **city** — Санкт-Петербург
 
 <!--
 **EveryBarry/EveryBarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

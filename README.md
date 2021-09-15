@@ -8,6 +8,8 @@
 - **Mail** — <a href="burenkov.igor@gmail.com">burenkov.igor@gmail.com</a>
 - **Telegram** - <a href="https://t.me/burenkov">@burenkov</a>
 - **City** — Saint-Petersburg
+- [CodeWars](https://www.codewars.com/users/EveryBarry/badges/micro)
+<img alt="CW" src="https://www.codewars.com/users/EveryBarry/badges/large">
 
 ## Привлекающие технологии
 JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS
@@ -22,9 +24,7 @@ JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS
 
 <img width="200" heigth="auto" alt="JS2min" src="cert_min/JS2min.png"> <img width="200" heigth="auto" alt="NodeJSmin" src="cert_min/NodeJSmin.png"> <img width="200" heigth="auto" alt="ReactJSmin" src="cert_min/ReactJSmin.png"> <img width="200" heigth="auto" alt="JS OOPmin" src="cert_min/JS OOPmin.png">
 
-
-
-## Портфолио
+## Репозитории
 
 ## О себе
 Люблю изучать новые технологии и оптимизировать процессы.

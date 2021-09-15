@@ -4,10 +4,10 @@
 
 ## Контактная информация
 
-- **tel** — <a href="tel:+79811574035">+7 981 157 40 35</a>
-- **mail** — <a href="mailto:79811574035@ya.ru">79811574035@ya.ru</a>
-- **telegram** - <a href="https://t.me/burenkov">@burenkov</a>
-- **city** — Санкт-Петербург
+- **Tel** — <a href="tel:+79811574035">+7 981 157 40 35</a>
+- **Mail** — <a href="burenkov.igor@gmail.com">burenkov.igor@gmail.com</a>
+- **Telegram** - <a href="https://t.me/burenkov">@burenkov</a>
+- **City** — Saint-Petersburg
 
 ## Привлекающие технологии
 JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS

@@ -14,6 +14,12 @@ JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS
 
 ## Образование
 
+- Курс «JavaScript v.2.0» [JavaScript v.2.0](https://itgid.info/course/javascript-2)
+- Курс «NodeJS» [NodeJS](https://itgid.info/course/nodejs)
+- Курс «ReactJS» [ReactJS](https://itgid.info/course/reactjs)
+- Курс «ООП в JS» [ООП в JS](https://itgid.info/course/object-js)
+- Курс «Функции в JavaScript 2021» [Функции в JavaScript 2021](https://itgid.info/course/function-2021)
+
 
 ## Портфолио
 

@@ -8,7 +8,7 @@
 - **Mail** — <a href="burenkov.igor@gmail.com">burenkov.igor@gmail.com</a>
 - **Telegram** - <a href="https://t.me/burenkov">@burenkov</a>
 - **City** — Saint-Petersburg
-- [CodeWars](https://www.codewars.com/users/EveryBarry/badges/micro)
+- [CodeWars](https://www.codewars.com/users/EveryBarry)
 <img alt="CW" src="https://www.codewars.com/users/EveryBarry/badges/large">
 
 ## Привлекающие технологии

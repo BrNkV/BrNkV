@@ -22,7 +22,7 @@ JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS
 - Курс «ООП в JS» [ООП в JS](https://itgid.info/course/object-js)
 - Курс «Функции в JavaScript 2021» [Функции в JavaScript 2021](https://itgid.info/course/function-2021)
 
-<img width="200" heigth="auto" alt="JS2min" src="cert_min/JS2min.png"> <img width="200" heigth="auto" alt="NodeJSmin" src="cert_min/NodeJSmin.png"> <img width="200" heigth="auto" alt="ReactJSmin" src="cert_min/ReactJSmin.png"> <img width="200" heigth="auto" alt="JS OOPmin" src="cert_min/JS OOPmin.png">
+<img width="200" heigth="auto" alt="JS2min" src="cert_min/JS2min.png"><img width="200" heigth="auto" alt="NodeJSmin" src="cert_min/NodeJSmin.png"><img width="200" heigth="auto" alt="ReactJSmin" src="cert_min/ReactJSmin.png"><img width="200" heigth="auto" alt="JS OOPmin" src="cert_min/JS OOPmin.png"><img width="200" heigth="auto" alt="JS_Function" src="cert_min/JS_Function 2021min.png">
 
 ## Репозитории
 

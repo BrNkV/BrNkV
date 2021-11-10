@@ -24,10 +24,11 @@ JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS
 
 <img width="200" heigth="auto" alt="JS2min" src="cert_min/JS2min.png"><img width="200" heigth="auto" alt="NodeJSmin" src="cert_min/NodeJSmin.png"><img width="200" heigth="auto" alt="ReactJSmin" src="cert_min/ReactJSmin.png"><img width="200" heigth="auto" alt="JS OOPmin" src="cert_min/JS OOPmin.png"><img width="200" heigth="auto" alt="JS_Function" src="cert_min/JS_Function 2021min.png">
 
-## Репозитории
+<!-- ## Репозитории -->
 
 ## О себе
 Люблю изучать новые технологии и оптимизировать процессы.
+Планирую дальнейшее развитие в области фронтенда и мобильной разработки на React и React Native.
 Так же увлекаюсь велоспортом и общим функциональным развитием организма.
 
 <!--

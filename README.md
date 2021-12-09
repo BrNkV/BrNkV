@@ -11,8 +11,8 @@
 - [CodeWars](https://www.codewars.com/users/EveryBarry)
 <img alt="CW" src="https://www.codewars.com/users/EveryBarry/badges/large">
 
-## Привлекающие технологии
-JavaScript, ReactJS, ReactNative, NodeJS, ElectronJS
+## Изучаемые технологии
+JavaScript, ReactJS, VueJS, NodeJS, Laravel
 
 ## Образование
 

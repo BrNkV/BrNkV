@@ -12,7 +12,7 @@
 <img alt="CW" src="https://www.codewars.com/users/EveryBarry/badges/large">
 
 ## Изучаемые технологии
-JavaScript, ReactJS, VueJS, NodeJS, Laravel
+JavaScript, HTML, CSS, ReactJS, VueJS, NodeJS, Laravel, ReactNative, Git
 
 ## Образование
 

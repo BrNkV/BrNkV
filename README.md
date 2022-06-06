@@ -12,7 +12,7 @@
 <img alt="CW" src="https://www.codewars.com/users/EveryBarry/badges/large">
 
 ## Изучаемые технологии
-JavaScript, HTML, CSS, ReactJS, VueJS, NodeJS, Laravel, ReactNative, Git
+JavaScript, HTML, CSS, NodeJS, Git, ReactJS, VueJS, ReactNative
 
 ## Образование
 
@@ -28,12 +28,10 @@ JavaScript, HTML, CSS, ReactJS, VueJS, NodeJS, Laravel, ReactNative, Git
 
 ## О себе
 Люблю изучать новые технологии и оптимизировать процессы.
-Планирую дальнейшее развитие в области фронтенда и мобильной разработки на React и React Native.
+Планирую дальнейшее развитие в области фронтенда, мобильной разработки и Node.js
 Так же увлекаюсь велоспортом и общим функциональным развитием организма.
 
 <!--
-**EveryBarry/EveryBarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

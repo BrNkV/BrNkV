@@ -8,8 +8,8 @@
 - **Mail** — <a href="burenkov.igor@gmail.com">burenkov.igor@gmail.com</a>
 - **Telegram** — <a href="https://t.me/burenkov">@burenkov</a>
 - **City** — Saint-Petersburg
-- [CodeWars](https://www.codewars.com/users/EveryBarry)
-<img alt="CW" src="https://www.codewars.com/users/EveryBarry/badges/large">
+- [CodeWars](https://www.codewars.com/users/BrNkV)
+<img alt="CW" src="https://www.codewars.com/users/BrNkV/badges/small">
 
 ## Изучаемые технологии
 JavaScript, HTML, CSS, NodeJS, Git, ReactJS, VueJS, ReactNative
@@ -27,9 +27,9 @@ JavaScript, HTML, CSS, NodeJS, Git, ReactJS, VueJS, ReactNative
 <!-- ## Репозитории -->
 
 ## О себе
-Люблю изучать новые технологии и оптимизировать процессы.
-Планирую дальнейшее развитие в области фронтенда, мобильной разработки и Node.js
-Так же увлекаюсь велоспортом и общим функциональным развитием организма.
+I enjoy learning new technologies and optimizing processes. <br>
+I'm interested in the further development and study of JS and Node.js. <br>
+Also fond of cycling and general functional development of the body..
 
 <!--
 Here are some ideas to get you started:

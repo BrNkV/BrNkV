@@ -12,7 +12,7 @@
 <img alt="CW" src="https://www.codewars.com/users/BrNkV/badges/small">
 
 ## Изучаемые технологии
-JavaScript, HTML, CSS, NodeJS, Git, ReactJS, VueJS, ReactNative
+JavaScript, HTML, CSS, NodeJS, Git, ReactJS, VueJS, ReactNative, Angular, NestJS
 
 ## Образование
 

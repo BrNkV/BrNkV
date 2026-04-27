@@ -1,45 +1,46 @@
-# Буренков Игорь
+# 👋 Игорь Буренков
 
-<img align="right" width="250" heigth="auto" alt="Буренков Игорь и вид на Джугутурлючат" src="IMG_20210725_113104min.jpg">
+> Fullstack-разработчик | JavaScript • Node.js • React • Vue
+> 📍 Санкт-Петербург | 🚀 Создаю эффективные веб-решения
 
-## Контактная информация
+---
 
-- **Tel** — <a href="tel:+79811574035">+7 981 157 40 35</a>
-- **Mail** — <a href="burenkov.igor@gmail.com">burenkov.igor@gmail.com</a>
-- **Telegram** — <a href="https://t.me/burenkov">@burenkov</a>
-- **City** — Saint-Petersburg
-- [CodeWars](https://www.codewars.com/users/BrNkV)
-<img alt="CW" src="https://www.codewars.com/users/BrNkV/badges/small">
+## 🔗 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-@burenkov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/burenkov)
+[![Email](https://img.shields.io/badge/Email-burenkov.igor@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burenkov.igor@gmail.com)
+[![CodeWars](https://img.shields.io/badge/CodeWars-5kyu-99263B?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/BrNkV)
 
-## Изучаемые технологии
-SQL, JavaScript, HTML, CSS, NodeJS, Git, ReactJS, VueJS, Angular, NestJS
+---
 
-## Образование
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-- Курс «JavaScript v.2.0» [JavaScript v.2.0](https://itgid.info/course/javascript-2)
-- Курс «NodeJS» [NodeJS](https://itgid.info/course/nodejs)
-- Курс «ReactJS» [ReactJS](https://itgid.info/course/reactjs)
-- Курс «ООП в JS» [ООП в JS](https://itgid.info/course/object-js)
-- Курс «Функции в JavaScript 2021» [Функции в JavaScript 2021](https://itgid.info/course/function-2021)
+---
 
-<img width="200" heigth="auto" alt="JS2min" src="cert_min/JS2min.png"><img width="200" heigth="auto" alt="NodeJSmin" src="cert_min/NodeJSmin.png"><img width="200" heigth="auto" alt="ReactJSmin" src="cert_min/ReactJSmin.png"><img width="200" heigth="auto" alt="JS OOPmin" src="cert_min/JS OOPmin.png"><img width="200" heigth="auto" alt="JS_Function" src="cert_min/JS_Function 2021min.png">
+## 📊 Активность
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrNkV&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/BrNkV)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrNkV&layout=compact&theme=github_dark&hide_border=true)](https://github.com/BrNkV)
 
-<!-- ## Репозитории -->
+---
 
-## О себе
-I enjoy learning new technologies and optimizing processes. <br>
-I'm interested in the further development and study of JS and Node.js. <br>
-Also fond of cycling and general functional development of the body..
+## 🚀 Избранные проекты
+<!-- Закрепи 4-6 лучших репозиториев в настройках профиля -->
 
-<!--
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Сейчас в фокусе
+- 🔄 Углублённое изучение NestJS и архитектурных паттернов
+- 🎯 Оптимизация процессов и производительности приложений
+- 🚴 Велоспорт и функциональный тренинг
+
+---
+
+## 📫 Связаться со мной
+Открыт к интересным проектам и коллаборациям! Пиши в Telegram или на почту — отвечу в течение 24 часов.
